@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esadovni
-- 👀 I’m interested in learning to code with Linux and Python.
+- 👀 I’m interested in learning Software Engineering, with a focus in ML and AI.
 - 🌱 I’m currently learning Linux basics and Bash shell.
 - 💞️ I’m looking to collaborate on learning coding.
 - 📫 How to reach me: through GitHub.
